@@ -21,7 +21,7 @@ let package = Package(
             name: "DataMiplib3",
             resources: [
                 // `.copy` leaves files untouched (no asset compilation).
-                .copy("Resources/Data/Miplib3") // <-- raw test data
+                .copy("Resources/Data") // <-- raw test data
             ]
         ),
 
