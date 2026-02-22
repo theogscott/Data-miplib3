@@ -1,3 +1,14 @@
 ar-lib
 aclocal.m4
 autom4te.cache
+
+#Xcode
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+
